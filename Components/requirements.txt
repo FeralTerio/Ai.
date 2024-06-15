@@ -1,5 +1,0 @@
-wheel
-tinyaes
-pyaesm
-urllib3
-visual studio code
